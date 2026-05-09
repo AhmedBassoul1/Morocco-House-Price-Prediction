@@ -1,3 +1,5 @@
 # env :
 
 mlops_env/
+
+*pyc
